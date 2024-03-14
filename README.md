@@ -13,11 +13,11 @@ O projeto corresponde ao primeiro desafio do primeiro módulo do curso Ignite/Re
 
 ## ⚙️ Funcionalidades
 
-- [x] Cadastro de tarefas.
+- [x] Cadastro de tarefa.
   - [x] Marcar tarefa como feita.
   - [x] Desmarcar tarefa como feita.
-- [x] Listagem de tarefas.
-- [x] Exclusão de tarefas.
+- [x] Listagem das tarefas.
+- [x] Exclusão de tarefa.
 
 ## 📱 Demo
 
